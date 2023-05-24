@@ -33,3 +33,5 @@
 
 # build folder
 build
+build_debug
+
