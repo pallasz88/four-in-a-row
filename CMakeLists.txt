@@ -4,6 +4,7 @@ project(four_in_a_row
         DESCRIPTION "4 in a row board game with NN engine"
         LANGUAGES CXX)
 
+enable_testing()
 include_directories(${CMAKE_SOURCE_DIR})
 
 add_subdirectory(rules)
